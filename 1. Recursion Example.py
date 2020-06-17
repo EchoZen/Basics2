@@ -21,11 +21,11 @@ list3=[]
 #Goal is to change list1 to list3 by moving the numbers around using recursive function
 #But can only move 1 number at a time
 #Bigger number cannot be after smaller number
-def tHanoi(t):
-    if len(list1)==0
-        return list3.append(list1[0])
-    else:
-        for i in list1:
-            if i in list2 and i<list2[]
+# def tHanoi(t):
+#     if len(list1)==0:
+#         return list3.append(list1[0])
+#     else:
+#         for i in list1:
+#             if i in list2 and i<list2[]:
 
 
